@@ -1,2 +1,24 @@
-*~
+# Python
+*.pc
+*.pyc
+*.pyo
+__pycache__
+.pipenv_setup
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+
+# virtualenv
+.venv
+
+# direnv
+.envrc
+
+# org babel
+.ob-jupyter
+
+# editors
+.vscode
+.idea
 .DS_Store
