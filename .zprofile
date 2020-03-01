@@ -1,0 +1,1 @@
+export PATH=$CUSTOM_PATH

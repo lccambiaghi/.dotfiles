@@ -2,7 +2,7 @@ export PATH="$HOME/.emacs.d/bin:$PATH"
 export PATH="/usr/local/opt/llvm/bin:$PATH"
 export PATH=/usr/local/bin:$PATH
 export PATH="$HOME/.pyenv/bin:$PATH"
-# export PATH="$HOME/.pyenv/shims:$PATH"
+export PATH="$HOME/.pyenv/shims:$PATH"
 export PATH="$HOME/.poetry/bin:$PATH"
 # use /usr/local/opt/llvm/bin/clang instead of built-in
 export SHELL=/bin/zsh

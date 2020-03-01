@@ -7,6 +7,7 @@ fi
 
 export ZSH="/Users/luca/.oh-my-zsh"
 ZSH_THEME=powerlevel10k/powerlevel10k
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'
 
 plugins=(
 git
