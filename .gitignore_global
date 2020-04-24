@@ -23,3 +23,7 @@ __pycache__
 .vscode
 .idea
 .DS_Store
+
+# packrat
+packrat/lib*/
+packrat/src

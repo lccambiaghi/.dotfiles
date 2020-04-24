@@ -1,3 +1,4 @@
 # clang: start
 PATH="/usr/local/clang7/bin:${PATH}"
+# R_LIBS_USER=/custom/path/in/absolute/form
 # clang: end

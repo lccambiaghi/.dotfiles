@@ -1,0 +1,10 @@
+[user]
+	name = Luca Cambiaghi
+	email = luca.cambiaghi@maersk.com
+[core]
+	excludesfile = /Users/luca/.gitignore_global
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
