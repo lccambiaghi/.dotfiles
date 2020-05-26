@@ -1,4 +1,5 @@
 export PATH="$HOME/.emacs.d/bin:$PATH"
+# export PATH="/usr/local/anaconda3/bin:$PATH"
 export PATH="/usr/local/opt/llvm/bin:$PATH"
 export PATH=/usr/local/bin:$PATH
 export PATH="$HOME/.pyenv/bin:$PATH"
@@ -14,3 +15,5 @@ export LC_ALL=en_US.UTF-8
 export TERM=xterm-256color
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
 export EDITOR=emacsclient
+export SSH_AGENT_PID=17088
+export SSH_AUTH_SOCK="/var/folders/g0/f7zdhs0s2nlfngvwp14kmlnh0000gn/T//ssh-1j7zub7wuXIl/agent.17087"
